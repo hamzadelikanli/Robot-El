@@ -1,6 +1,4 @@
-<img width="1536" height="2048" alt="WhatsApp Image 2026-05-16 at 11 04 34 (3)" src="https://github.com/user-attachments/assets/10a33e97-d427-4f15-85b6-5713d995f26d" />
-<img width="1152" height="2048" alt="WhatsApp Image 2026-05-16 at 11 04 34 (2)" src="https://github.com/user-attachments/assets/60931787-0584-4cc2-ac05-819ec0bce668" />
-<img width="1152" height="2048" alt="WhatsApp Image 2026-05-16 at 11 04 34 (1)" src="https://github.com/user-attachments/assets/9df1b7e0-ea4b-47c4-910c-445e8ec75c4c" />
+
 
 
 https://github.com/user-attachments/assets/6da20d3f-c25b-40df-8d69-c199aab65c5d
@@ -39,3 +37,8 @@ Arduino (UNO / Nano)
 İp/Misine tabanlı parmak çekme mekanizması
 
 Webcam
+
+
+<img width="1536" height="2048" alt="WhatsApp Image 2026-05-16 at 11 04 34 (3)" src="https://github.com/user-attachments/assets/10a33e97-d427-4f15-85b6-5713d995f26d" />
+<img width="1152" height="2048" alt="WhatsApp Image 2026-05-16 at 11 04 34 (2)" src="https://github.com/user-attachments/assets/60931787-0584-4cc2-ac05-819ec0bce668" />
+<img width="1152" height="2048" alt="WhatsApp Image 2026-05-16 at 11 04 34 (1)" src="https://github.com/user-attachments/assets/9df1b7e0-ea4b-47c4-910c-445e8ec75c4c" />
