@@ -38,7 +38,7 @@ Webcam
 
 
 
-https://github.com/user-attachments/assets/98dd79d5-fa55-4ed5-bf28-27c38318b510
+[![Robot El Videosu](https://img.shields.io/badge/🎥-Robot_El_Videosu-blue?style=for-the-badge)](https://github.com/user-attachments/assets/98dd79d5-fa55-4ed5-bf28-27c38318b510)
 
 
 
